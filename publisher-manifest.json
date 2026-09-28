@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1e57d89c94022acefcedc836",
+  "owner": "fjaumcadfkd",
+  "repo": "page-d133aa132ba98cc31920a260",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d133aa132ba98cc31920a260",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ec77aa50718d7e37f4d177f086ee51dd542fce49f2f2297a78d11a1d08594af7",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云为您提供高效的VPN梯子网络加速和加速器服务，助力客户端下载与使用。",
+          "AI_DESCRIPTION": "龙猫云为您提供高效的VPN梯子网络加速和加速器服务，助力客户端下载与使用。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n    line-height: 1.6;\n    color: #333;\n    background: #f8f5f2;\n    margin: 0;\n    padding: 0;\n}\nheader {\n    background: white;\n    box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n    position: sticky;\n    top: 0;\n    z-index: 10;\n}\nnav {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 1rem 1.5rem;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n}\n.logo {\n    font-size: 1.8rem;\n    font-weight: bold;\n    color: #2e7d32;\n}\nul {\n    display: flex;\n    list-style: none;\n    gap: 2rem;\n}\na {\n    color: #2e7d32;\n    text-decoration: none;\n    font-weight: 500;\n}\na:hover {\n    text-decoration: underline;\n}\n.hero {\n    background: linear-gradient(to bottom, #f8f5f2, #e8e4d9);\n    padding: 6rem 1.5rem 4rem;\n    text-align: center;\n    position: relative;\n}\n.hero h1 {\n    font-size: 3.5rem;\n    margin-bottom: 1rem;\n    color: #2e7d32;\n}\n.hero p {\n    font-size: 1.4rem;\n    max-width: 800px;\n    margin: 0 auto;\n}\nmain {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 2rem 1.5rem;\n}\nsection {\n    margin-bottom: 4rem;\n}\nh2 {\n    color: #2e7d32;\n    border-bottom: 3px solid #2e7d32;\n    padding-bottom: 0.5rem;\n    margin-bottom: 2rem;\n}\n.card {\n    background: white;\n    border: 2px solid #2e7d32;\n    border-radius: 12px;\n    padding: 2rem;\n    margin-bottom: 2rem;\n    box-shadow: 0 4px 12px rgba(46,125,50,0.1);\n}\n.card h3 {\n    color: #2e7d32;\n}\n.features {\n    list-style: none;\n    padding: 0;\n}\n.features li {\n    padding: 0.5rem 0;\n    border-bottom: 1px solid #eee;\n}\n.features li:last-child {\n    border-bottom: none;\n}\ndetails {\n    background: #f8f5f2;\n    border-radius: 8px;\n    margin: 1rem 0;\n}\ndetails summary {\n    font-weight: bold;\n    cursor: pointer;\n    padding: 1rem;\n    background: #f8f5f2;\n    border-radius: 8px;\n}\ndetails[open] summary {\n    background: #e8e4d9;\n}\nfooter {\n    background: #2e7d32;\n    color: white;\n    padding: 3rem 1.5rem 2rem;\n    text-align: center;\n}\n.footer-content {\n    max-width: 1200px;\n    margin: 0 auto;\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n    gap: 2rem;\n}\n.footer-links {\n    display: flex;\n    flex-direction: column;\n    gap: 1rem;\n}\n.footer-links a {\n    color: white;\n    text-decoration: none;\n}\nfooter p {\n    margin: 0;\n}\n.cta {\n    background: #2e7d32;\n    color: white;\n    padding: 3rem 1.5rem;\n    text-align: center;\n    border-radius: 12px;\n    margin: 4rem 0;\n}\n.cta button {\n    background: white;\n    color: #2e7d32;\n    border: none;\n    padding: 1rem 2rem;\n    font-size: 1.1rem;\n    border-radius: 8px;\n    cursor: pointer;\n    margin-top: 1rem;\n}\n@media (max-width: 768px) {\n    .hero h1 {\n        font-size: 2.8rem;\n    }\n    nav ul {\n        gap: 1rem;\n        font-size: 0.9rem;\n    }\n}\n</style>\n\n\n<header>\n<nav>\n    <div class=\"logo\">龙猫云</div>\n    <ul>\n        <li><a href=\"#intro\">品牌介绍</a></li>\n        <li><a href=\"#plans\">服务套餐</a></li>\n        <li><a href=\"#clients\">客户端选择</a></li>\n        <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n    <a href=\"#clients\">开始使用</a>\n</nav>\n</header>\n<main>\n<section class=\"hero\">\n    <h1>龙猫云</h1>\n    <p>高效网络加速器 | VPN梯子加速 | 客户端下载与选择</p>\n    <div></div>\n</section>\n<section id=\"intro\">\n    <h2>品牌简介</h2>\n    <p>龙猫云致力于打造稳定快速的网络加速服务，帮助用户畅享无障碍的互联网体验。</p>\n    <p>无论您是个人用户还是团队，都能找到适合的解决方案。</p>\n</section>\n<section id=\"plans\">\n    <h2>服务套餐</h2>\n    {{PLANS_HTML}}\n</section>\n<section id=\"clients\">\n    <h2>客户端选择</h2>\n    {{CLIENTS_HTML}}\n</section>\n<section id=\"scenarios\">\n    <h2>使用场景</h2>\n    <p>龙猫云适用于多种场景，包括日常上网、在线娱乐、远程办公以及需要稳定连接的游戏加速。</p>\n    <p>通过先进的节点布局和优化线路，提供卓越的加速效果。</p>\n</section>\n<section id=\"operations\">\n    <h2>操作说明</h2>\n    <p>1. 选择适合您的套餐。</p>\n    <p>2. 下载对应客户端。</p>\n    <p>3. 安装并配置节点。</p>\n    <p>4. 享受加速体验。</p>\n</section>\n<section id=\"faq\">\n    <h2>常见问题</h2>\n    <details>\n        <summary>什么是龙猫云？</summary>\n        <p>龙猫云是一款专业的网络加速服务，提供稳定的线路和便捷的客户端体验，帮助用户提升网络速度。</p>\n    </details>\n    <details>\n        <summary>支持哪些设备？</summary>\n        <p>龙猫云支持多种设备在线使用，包括电脑、手机和平板。</p>\n    </details>\n    <details>\n        <summary>如何选择合适的套餐？</summary>\n        <p>根据您的流量需求、设备数量和使用场景选择基础版、旗舰版或团队版。</p>\n    </details>\n    <details>\n        <summary>客户端如何使用？</summary>\n        <p>下载客户端后，按照安装指南进行配置，即可连接加速节点。</p>\n    </details>\n    <details>\n        <summary>售后支持如何？</summary>\n        <p>我们提供7x24工单支持，确保您的使用无忧。</p>\n    </details>\n</section>\n<section class=\"cta\">\n    <h2>立即选择客户端</h2>\n    <p>下载适合您的客户端，开启高速网络之旅</p>\n    <a href=\"#clients\"></a>\n</section>\n</main>\n<footer>\n    <div class=\"footer-content\">\n        <div class=\"footer-links\">\n            <a href=\"#intro\">品牌介绍</a>\n            <a href=\"#plans\">服务套餐</a>\n            <a href=\"#clients\">客户端选择</a>\n            <a href=\"#faq\">常见问题</a>\n        </div>\n        <p>© 2024 龙猫云 网络加速服务</p>\n    </div>\n</footer>\n\n",
+          "hash": "3274b7a4af23e783b83c2a164e398bdd37123aa349f3e9c5331594faf47797c5",
+          "seo": {
+            "title": "龙猫云 | VPN梯子网络加速 | 客户端下载",
+            "keywords": "龙猫云, VPN, 网络加速, 机场, 加速器, 客户端下载",
+            "description": "龙猫云为您提供高效的VPN梯子网络加速和加速器服务，助力客户端下载与使用。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cnitb.cn",
+    "host": "a.cnitb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "cnitb.cn",
+      "url": "https://cnitb.cn/",
+      "label": "比特云(Bitcloud)",
+      "apex": "cnitb.cn",
+      "kind": null,
+      "identity": "dhkeeryny/page-97a1246611bd844958bb1d7b"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "947d43e38cf1d38c11a26baf43aa01f5dfb2c856e7a70a6626add0927d679b06",
+    "sitemap.xml": "ea4bb1bbd4a65d4d97c7e2902547f9032c9383fd908eedd195ab7e23a72ad565",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3436411bc82709d07b09fe7ff28507354ff5385a096f960d12ad1021734ad6ec",
+    "robots.txt": "2e027eef1f5e269c117df7960c9861fa8fc267120a7b21a09a16f5d3c7a087fd",
+    "c740bad52a0b35d06ef672840c5dd0ad.txt": "8e9cd55181593e54cbec8fd6096b3246ec212f09f34a8cfd4295e2a359e0995e"
+  },
+  "revision": "7c71ab31f03cfe8afba275ce986beed323fb8a9686a1694dcf7ce1e7bc56f63d"
+}
